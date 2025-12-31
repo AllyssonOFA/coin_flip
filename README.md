@@ -1,10 +1,10 @@
-# ![The icon of a coin](src/media/icons-coin.png) Coin Flip
+# ![The icon of a coin](https://github.com/AllyssonOFA/coin_flip/blob/main/src/coin_flip/media/icons-coin.png) Coin Flip
 
 ## What is this?
 - This is a TUI solution for the [Flip The Coin](https://devchallenges.io/challenge/flip-the-coin) challenge at [devchallenges.io](https://devchallenges.io/) 
 
 ## Interface
-![A picture demonstrating the project](src/media/Demo.png)
+![A picture demonstrating the project](https://github.com/AllyssonOFA/coin_flip/blob/main/src/coin_flip/media/Demo.png)
 
 ## Installation
 > Make sure you have the latest version of pip installed.
