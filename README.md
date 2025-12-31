@@ -32,3 +32,10 @@ coin_flip
 pip install "git+https://github.com/AllyssonOFA/coin_flip.git"
 ```
 
+## Uninstallation
+```bash
+pip uninstall -r requirements.txt
+
+pip uninstall coin-flip
+```
+
