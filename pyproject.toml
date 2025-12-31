@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coin-flip"
+authors = [
+    {name = "Allysson Orlando"}
+]
+version = "0.1.0"
+description = "A simple TUI app for flipping a coin."
+readme = "README.md"
+requires-python = ">=3.10"
+keywords = ["textual", "tui", "game", "utilities"]
+classifiers = [
+    "Library :: Textual",
+    "Programming Language :: Python :: 3.10"
+]
+dependencies = [
+    "textual>=6.8.0",
+]
+
+[project.scripts]
+coin-flip = "coin_flip.main:main"

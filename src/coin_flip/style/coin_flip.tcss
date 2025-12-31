@@ -1,0 +1,27 @@
+Coin {
+    align: center middle;
+    padding: 2;
+    border: round goldenrod;
+    background: $surface;
+}
+
+#coin_state {
+    text-align: center;
+    color: cyan;
+    text-style: bold;
+    height: 2;
+}
+
+#counter_group {
+    align: center middle;
+    width: 100%;
+    height: auto;
+}
+
+.counter {
+    text-style: italic;
+}
+
+#flip_count {
+    color: gold;
+}
